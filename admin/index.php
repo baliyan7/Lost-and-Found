@@ -11,7 +11,7 @@ $pageSplit[1] = (strtolower($pageSplit[1]) == 'list') ? $pageSplit[0].' List' : 
   <body>
      
      <?php require_once('inc/topBarNav.php') ?>
-     <?php require_once('inc/navigation.php') ?>   
+     
       <!-- Content Wrapper. Contains page content -->
       <main id="main" class="main">
         <div class="pagetitle">
